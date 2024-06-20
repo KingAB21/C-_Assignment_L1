@@ -1,0 +1,8 @@
+3.  int - 4 bytes
+    bool - 1 byte
+    float - 4 bytes
+
+4.  10
+
+6.  1
+
